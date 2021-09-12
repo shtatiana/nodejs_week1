@@ -1,7 +1,7 @@
 {
   "headers": {
     "/*" : {
-      "X-Author": "Tatiana"
+      "X-Author": "Tatiana",
       "Access-Control-Allow-Origin": "*"
     }
   }
