@@ -8,7 +8,7 @@
       "X-Author": "Tatiana",
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain; charset=utf-8"
-    }
+    },
     "/sample/" : {
       "X-Author": "Tatiana",
       "Access-Control-Allow-Origin": "*",
